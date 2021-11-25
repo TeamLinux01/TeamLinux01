@@ -14,7 +14,6 @@
 * [Dhru Purohit Podcast](https://www.dhrupurohit.com)
 * [High Intensity Health with Mike Mutzel, MS](https://highintensityhealth.libsyn.com/rss)
 * [Feel Better, Live More with Dr Rangan Chatterjee](https://drchatterjee.com)
-* [Bulletproof Radio](https://blog.daveasprey.com/category/podcasts)
 * [The Mike Dominick Show](https://feeds.fireside.fm/mdominick/rss)
 * [BSD Now](https://feeds.fireside.fm/bsdnow/rss)
 * [Late Night Linux](https://latenightlinux.com/feed/mp3)
@@ -25,5 +24,3 @@
 * [Linux Action News](https://feeds.fireside.fm/linuxactionnews/rss)
 * [Self-Hosted](https://feeds.fireside.fm/selfhosted/rss)
 * [Coder Radio](https://coder.show/rss)
-* [CodeNewbie](http://feeds.codenewbie.org/cnpodcast.xml)
-* [Soft Skills Engineering](https://softskills.audio/feed.xml)
