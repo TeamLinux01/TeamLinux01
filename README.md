@@ -1,5 +1,6 @@
 ### Social platforms
 
+* **Discord**: TeamLinux01#8773
 * **Telegram**: @TeamLinux01
 * **Valve Steam**: TeamLinux01
 
