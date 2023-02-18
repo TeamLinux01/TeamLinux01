@@ -1,2 +1,2 @@
 # Check out my blog
-[https://daniel.melzaks.com](Weblog of Daniel Melzak's Interests)
+[Weblog of Daniel Melzak's Interests](https://daniel.melzaks.com)
